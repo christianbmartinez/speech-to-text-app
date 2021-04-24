@@ -1,0 +1,12 @@
+{
+  "name": "speech_to_text_app",
+  "version": "1.0.0",
+  "description": "A speech to text app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christian B. Martinez aka coderchris",
+  "license": "MIT"
+}
